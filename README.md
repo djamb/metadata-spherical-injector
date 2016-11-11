@@ -1,5 +1,5 @@
 # Metadata Spherical Injector
-LIbrary for inject spherical metadata in photos and videos on Android.
+Library for inject spherical metadata in photos and videos on Android. Only MP4 and JPEG formats supported
 
 This library is a wrapper from two librarys.
 
